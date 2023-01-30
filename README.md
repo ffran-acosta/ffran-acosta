@@ -4,7 +4,7 @@
 ## <div align="center">Full Stack web Developer</div>  
 <br/>  
 
-
+<table><tr><td valign="top" width="50%">
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
