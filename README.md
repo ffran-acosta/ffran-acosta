@@ -1,4 +1,4 @@
-### <h1> Hi there 👋 I'm Fran </h1>
+### <h1 text-align: center> Hi there 👋 I'm FRAN </h1>
 
 <!--
 **ffran-acosta/ffran-acosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
