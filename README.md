@@ -4,9 +4,7 @@
   
 
 ## <div align="center">Full Stack web Developer</div>  
-  
-
-<br/>  
+ 
 
 
 ## My Skill Set  
