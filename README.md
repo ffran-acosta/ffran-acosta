@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/ffran-acosta">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=620&lines=NestJS+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;Shipping+systems+used+daily+by+200%2B+physicians;Electronic+tax+invoicing+%26+AI+agents+in+production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=620&lines=NestJS+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;Shipping+systems+used+daily+by+200%2B+physicians;Backend-first%2C+tested%2C+in+production" alt="Typing SVG" />
 </a>
 
 <br />
@@ -18,10 +18,9 @@
 
 ### 👋 About me
 
-I build backend-heavy products in domains where software can't afford to fail: **irreversible tax invoicing, health data, SOAP integrations and multi-tenant isolation**. Most of the work isn't writing the endpoint — it's deciding what gets validated before it's too late.
+I build backend-heavy products in domains where software can't afford to fail: **health data, SOAP integrations, role-based access and auditing**. Most of the work isn't writing the endpoint — it's deciding what gets validated before it's too late.
 
 - 🏥 Sole developer of a medical management platform used daily by **200+ physicians**
-- 🚚 Backend of a multi-tenant fleet SaaS with **AFIP/ARCA e-invoicing** and an **AI agent** on Telegram
 - 🧪 Tests and CI on everything that ships
 - 🎓 Technical Degree in Multiplatform Application Development — UNNOBA
 
@@ -29,7 +28,7 @@ I build backend-heavy products in domains where software can't afford to fail: *
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h4>🏥 E-Bridge</h4>
       <sub>Full Stack · Sole developer · In production</sub>
       <p>Medical &amp; workers' compensation platform: appointments, consultations and claims, integrated with a health insurer over SOAP.</p>
@@ -39,20 +38,10 @@ I build backend-heavy products in domains where software can't afford to fail: *
         <li><b>~480 tests</b> (Jest, Vitest, Playwright) + CI</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h4>🚚 AgiFleet</h4>
-      <sub>Backend · Team of 4 · In production</sub>
-      <p>Multi-tenant SaaS for freight transport: trips, fleet, current accounts, expenses and invoicing.</p>
-      <ul>
-        <li>NestJS + Fastify, <b>145 endpoints</b>, tenant isolation on every query</li>
-        <li>In-house WSAA client for <b>electronic tax invoicing</b></li>
-        <li><b>AI agent</b> with LangGraph + Claude and ~25 real tools</li>
-      </ul>
-    </td>
   </tr>
 </table>
 
-<sub>Both are private client projects — happy to walk through the architecture in a call.</sub>
+<sub>Private client project — happy to walk through the architecture in a call.</sub>
 
 ### 🛠️ Tech stack
 
